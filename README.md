@@ -90,11 +90,3 @@ My goal is simple: write clean code, engineer zero-trust architectures, and buil
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anthonyalmda&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
-
----
-
-### <div align="center"> Activity Graph</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyalmda&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
