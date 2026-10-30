@@ -33,9 +33,9 @@ My goal is simple: write clean code, engineer zero-trust architectures, and buil
 
 ### <div align="center"> What I Build in Production</div>
 
-- ** Enterprise Agentic AI Systems:** Architecting multi-model LLM loops (**Anthropic Claude Opus/Sonnet & OpenAI**) integrated into Microsoft Teams (`FastAPI` + `AWS ECS Fargate`), featuring **50+ scoped analytical tools**, **3-tier Prompt Caching** (`>30k` cached tokens/turn), **Adaptive Thinking** real-time native streaming, and hybrid state machines (`Adaptive Cards` deterministic handoffs).
-- ** Application-Level Cryptography & Zero-Trust Data:** Designing authenticated encryption vaults (`AES-256-GCM` with row/column `AAD` binding) for sensitive PII/HR data, backed by append-only audit logs (`decrypt_audit_log`) and strict PostgreSQL/Supabase Multi-App Row-Level Security (`Regra 700` Access Gate + `security_invoker` views).
-- ** Full-Stack Data & Executive AI Platforms:** Building end-to-end platforms and automated ETL workflows combining **Snowflake**, **Supabase (PostgreSQL + pgvector + Edge Functions)**, **Prefect**, and **AWS (ECS, Lambda, SSM, S3, CDK)**—including AI Executive Dossier engines with deterministic guardrails and automated benefits pipelines via Microsoft Graph API.
+- **Enterprise Agentic AI Systems:** Architecting multi-model LLM loops (**Anthropic Claude Opus/Sonnet & OpenAI**) integrated into Microsoft Teams (`FastAPI` + `AWS ECS Fargate`), featuring **50+ scoped analytical tools**, **3-tier Prompt Caching** (`>30k` cached tokens/turn), **Adaptive Thinking** real-time native streaming, and hybrid state machines (`Adaptive Cards` deterministic handoffs).
+- **Application-Level Cryptography & Zero-Trust Data:** Designing authenticated encryption vaults (`AES-256-GCM` with row/column `AAD` binding) for sensitive PII/HR data, backed by append-only audit logs (`decrypt_audit_log`) and strict PostgreSQL/Supabase Multi-App Row-Level Security (`Regra 700` Access Gate + `security_invoker` views).
+- **Full-Stack Data & Executive AI Platforms:** Building end-to-end platforms and automated ETL workflows combining **Snowflake**, **Supabase (PostgreSQL + pgvector + Edge Functions)**, **Prefect**, and **AWS (ECS, Lambda, SSM, S3, CDK)**—including AI Executive Dossier engines with deterministic guardrails and automated benefits pipelines via Microsoft Graph API.
 
 ---
 
