@@ -59,7 +59,7 @@ My goal is simple: write clean code, engineer zero-trust architectures, and buil
     <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/anthony-almeida/](https://www.linkedin.com/in/anthonyalmda/)" target="_blank">
+  <a href="www.linkedin.com/in/anthonyalmda" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
