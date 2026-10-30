@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Banner" />
+  <img src="./banner.png.jpeg" width="100%" alt="Banner" />
 </div>
 
 <br />
@@ -19,7 +19,7 @@
 
 ### <div align="center"> About Me</div>
 
-<img align="right" width="280" src="./side-art.png" alt="Pixel Art" />
+<img align="right" width="280" src="./side-art.png.jpg" alt="Pixel Art" />
 
 **Anthony**, here — a **Computer Engineer** focused on **AI Systems, Data Product Architecture & Backend Engineering**.
 
